@@ -5,4 +5,4 @@ SECOM dataset includes 1567 rows (observations) with 590 columns representing 59
 
 The key ideas are first to perform data cleaning and preparation to remove noise and deal with missing values. Then feature selection methods are selected to extract the most important variables. As the dataset contains Rare Events (Fail case) which we are interested to find out, it is necessary to apply sampling methods to deal with such imbalanceness before building the best parsimonious predictive model to predict faulty wafers.
 
-abc123
+abc123456
